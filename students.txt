@@ -9,3 +9,8 @@ Student ID: 102
 Name: Priya
 Course: BSc
 Year: 1
+
+Student ID: 103
+Name: Arjun
+Course: BCom
+Year: 1
